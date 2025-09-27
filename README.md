@@ -6,7 +6,7 @@
 
 **Внимание!** Этот репозиторий содержит **только код и настройки**.
 
-Полный проект, можно скачать в Google Disk - 
+Полный проект, можно скачать в Google Disk - https://drive.google.com/file/d/1TlsJKMS7uJJ8XCBJDd7iEEeS7Zc7CEv-/view?usp=sharing
 
 Как запустить проект
 
